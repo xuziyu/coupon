@@ -1,0 +1,17 @@
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\vo\CommonResponse.java
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\conf\JacksonConfig.java
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\vo\SettlementInfo.java
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\constant\ProductLine.java
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\vo\GoodsInfo.java
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\constant\PeriodType.java
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\constant\Constant.java
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\annotation\IgnoreResponseAdvice.java
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\constant\GoodsType.java
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\exception\CouponException.java
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\constant\DistributeTarget.java
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\advice\GlobalExceptionAdvice.java
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\constant\CouponCategory.java
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\conf\WebConfiguration.java
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\advice\CommonResponseDataAdvice.java
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\vo\CouponTemplateSDK.java
+C:\java\coupon\coupon-service\coupon-common\src\main\java\com\huey\vo\TemplateRule.java

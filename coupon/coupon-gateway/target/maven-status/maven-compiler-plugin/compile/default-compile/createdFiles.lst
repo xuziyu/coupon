@@ -1,0 +1,8 @@
+com\huey\filter\TokenFilter.class
+com\huey\GateWayApplication.class
+com\huey\filter\PreRequestFilter.class
+com\huey\filter\AbstractZuulFilter.class
+com\huey\filter\AccessLogFilter.class
+com\huey\filter\RateLimiterFilter.class
+com\huey\filter\AbstractPostZuulFilter.class
+com\huey\filter\AbstractPreZuulFilter.class

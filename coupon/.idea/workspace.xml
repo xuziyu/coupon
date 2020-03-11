@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d5925d3-746d-44f1-9c73-45aaa3c12f78" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/apache-maven-3.5.2" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X9is9CmSIOZ87GFcDXQ4kSX9FZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.huey.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\java\coupon\coupon-service\coupon-settlement\src\main\java\com\huey\controller" />
+      <recent name="C:\java\coupon\coupon-service\coupon-settlement\src\main\java\com\huey\executor\impl" />
+      <recent name="C:\java\coupon\coupon-service\coupon-settlement\src\main\java\com\huey\executor" />
+      <recent name="C:\java\coupon\coupon-service\coupon-settlement\src\main\java\com\huey\service" />
+      <recent name="C:\java\coupon\coupon-service\coupon-settlement\src\main\java\com\huey\constant" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaApplication">
+    <configuration name="DiscountExecutor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huey.executor.impl.DiscountExecutor" />
+      <module name="coupon-settlement" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huey.executor.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExecuteManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.huey.executor.ExecuteManager" />
+      <module name="coupon-settlement" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huey.executor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistributionApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="coupon-distribution" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huey.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huey.DistributionApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huey.EurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GateWayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="coupon-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huey.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huey.GateWayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SettlementApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="coupon-settlement" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huey.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huey.SettlementApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TemplateApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="coupon-template" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huey.TemplateApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DiscountExecutor" />
+      <item itemvalue="Application.ExecuteManager" />
+      <item itemvalue="Spring Boot.EurekaApplication" />
+      <item itemvalue="Spring Boot.TemplateApplication" />
+      <item itemvalue="Spring Boot.DistributionApplication" />
+      <item itemvalue="Spring Boot.SettlementApplication" />
+      <item itemvalue="Spring Boot.GateWayApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExecuteManager" />
+        <item itemvalue="Spring Boot.DistributionApplication" />
+        <item itemvalue="Application.DiscountExecutor" />
+        <item itemvalue="Spring Boot.GateWayApplication" />
+        <item itemvalue="Spring Boot.SettlementApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d5925d3-746d-44f1-9c73-45aaa3c12f78" name="Default" comment="" />
+      <created>1577171281931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577171281931</updated>
+      <workItem from="1577171284917" duration="4289000" />
+      <workItem from="1577175618518" duration="32113000" />
+      <workItem from="1577328421350" duration="14922000" />
+      <workItem from="1577411522063" duration="15915000" />
+      <workItem from="1577438762824" duration="3818000" />
+      <workItem from="1577670688090" duration="20577000" />
+      <workItem from="1577740302818" duration="17543000" />
+      <workItem from="1577930819663" duration="21507000" />
+      <workItem from="1578016556289" duration="12210000" />
+      <workItem from="1578277613572" duration="7542000" />
+      <workItem from="1578391565528" duration="328000" />
+      <workItem from="1578453692454" duration="2738000" />
+      <workItem from="1578475295678" duration="1386000" />
+      <workItem from="1578538894862" duration="10615000" />
+      <workItem from="1578621752292" duration="1000" />
+      <workItem from="1578622306664" duration="142000" />
+      <workItem from="1578622513373" duration="1000" />
+      <workItem from="1578623475518" duration="2553000" />
+      <workItem from="1578636392956" duration="838000" />
+      <workItem from="1578641729671" duration="97000" />
+      <workItem from="1578641971522" duration="3869000" />
+      <workItem from="1578882038276" duration="3828000" />
+      <workItem from="1578904590063" duration="869000" />
+      <workItem from="1578907158832" duration="1934000" />
+      <workItem from="1578965907588" duration="1825000" />
+      <workItem from="1579070554506" duration="3128000" />
+      <workItem from="1579412076278" duration="867000" />
+      <workItem from="1580464104679" duration="98000" />
+      <workItem from="1580464923344" duration="124000" />
+      <workItem from="1580465074758" duration="42000" />
+      <workItem from="1580465143257" duration="9000" />
+      <workItem from="1580465263260" duration="123000" />
+      <workItem from="1580465411335" duration="589000" />
+      <workItem from="1580466250686" duration="65000" />
+      <workItem from="1580466753301" duration="121000" />
+      <workItem from="1580466901608" duration="102000" />
+      <workItem from="1580467183047" duration="116000" />
+      <workItem from="1580467321680" duration="4230000" />
+      <workItem from="1580708454060" duration="3966000" />
+      <workItem from="1580798536770" duration="662000" />
+      <workItem from="1580890615344" duration="16000" />
+      <workItem from="1581581644750" duration="3637000" />
+      <workItem from="1581652160542" duration="1907000" />
+      <workItem from="1582631659657" duration="211000" />
+      <workItem from="1583244915279" duration="2408000" />
+      <workItem from="1583409918003" duration="18000" />
+      <workItem from="1583411731967" duration="1248000" />
+      <workItem from="1583717392477" duration="1481000" />
+      <workItem from="1583720388329" duration="4989000" />
+      <workItem from="1583813203453" duration="758000" />
+      <workItem from="1583825288379" duration="2105000" />
+      <workItem from="1583830326620" duration="743000" />
+      <workItem from="1583896137363" duration="1813000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="168" key="FileChooserDialogImpl" timestamp="1583830417647">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="168" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1583830417647" />
+    <state width="1493" height="137" key="GridCell.Tab.0.bottom" timestamp="1583433506309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="137" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1583433506309" />
+    <state width="1493" height="137" key="GridCell.Tab.0.center" timestamp="1583433506309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="137" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1583433506309" />
+    <state width="1493" height="137" key="GridCell.Tab.0.left" timestamp="1583433506308">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="137" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1583433506308" />
+    <state width="1493" height="137" key="GridCell.Tab.0.right" timestamp="1583433506309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="137" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1583433506309" />
+    <state width="1493" height="483" key="GridCell.Tab.1.bottom" timestamp="1581584069424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="483" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581584069424" />
+    <state width="1493" height="483" key="GridCell.Tab.1.center" timestamp="1581584069424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="483" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1581584069424" />
+    <state width="1493" height="483" key="GridCell.Tab.1.left" timestamp="1581584069424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="483" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1581584069424" />
+    <state width="1493" height="483" key="GridCell.Tab.1.right" timestamp="1581584069424">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="483" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1581584069424" />
+    <state x="202" y="110" key="SettingsEditor" timestamp="1583246117553">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="202" y="110" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1583246117553" />
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1583720395160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1583720395160" />
+    <state x="447" y="145" width="648" height="534" key="find.popup" timestamp="1580797219120">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="447" y="145" width="648" height="534" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1580797219120" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/coupon-service/coupon-settlement/src/main/java/com/huey/controller/SettlementController.java</url>
+          <line>99</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/coupon-service/coupon-settlement/src/main/java/com/huey/executor/impl/FullReductionExecutor.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/coupon-gateway/src/main/java/com/huey/filter/TokenFilter.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>coupon-eureka</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

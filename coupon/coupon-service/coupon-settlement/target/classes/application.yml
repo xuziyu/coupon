@@ -1,0 +1,19 @@
+server:
+  port: 8025
+  servlet:
+    context-path: /
+
+spring:
+  application:
+    name: eureka-client-coupon-settlement
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8021/eureka/
+    #registerWithEureka: false
+    #fetchRegistry: false
+
+logging:
+  level:
+    com.imooc.coupon: debug
